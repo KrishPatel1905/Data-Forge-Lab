@@ -1,0 +1,82 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.profile
+.ipython/
+
+# Jupyter runtime files
+.jupyter/
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+.history/
+*.code-workspace
+
+# -------------------------
+# Data Files (Large)
+# -------------------------
+# Uncomment if needed
+# data/
+# datasets/
+# *.csv
+# *.tsv
+# *.xlsx
+# *.json
+*.pickle
+*.pkl
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.parquet
+
+# -------------------------
+# Logs
+# -------------------------
+logs/
+*.log
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Environment Files
+# -------------------------
+*.env
+.env.*
+*.ini
+*.cfg
+*.toml
+
+# -------------------------
+# Cache
+# -------------------------
+.cache/
+*.cache
