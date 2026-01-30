@@ -1,0 +1,4 @@
+ Hello My name is krish
+             And this is try.txt file 
+             and also i am learing python      
+                   
